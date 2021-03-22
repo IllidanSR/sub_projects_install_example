@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=${exec_prefix}/lib64
+includedir=${prefix}/include
+
+Name: ICOL.MES.applicationLayer.lib_d
+Description: lib_d
+Version: 1.0.1
+
+Requires:
+Libs: -L${libdir} -lmylib
+Cflags: -I${includedir}

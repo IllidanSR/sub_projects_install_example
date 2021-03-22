@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/include/lib_d.hpp
+
+/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/lib_d.cpp
+iostream
+-
+include/lib_d.hpp
+/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/include/lib_d.hpp
+

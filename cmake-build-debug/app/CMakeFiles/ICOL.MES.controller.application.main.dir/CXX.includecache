@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/buisnesLayer/lib_c/include/lib_c.hpp
+lib_d.hpp
+../src/buisnesLayer/lib_c/include/lib_d.hpp
+
+/home/illidansr/CLionProjects/subproject_test/app/main.cpp
+iostream
+-
+lib_c/include/lib_c.hpp
+-
+

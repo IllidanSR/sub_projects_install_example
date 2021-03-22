@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="buisnesLayer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\buisnesLayer\;CMake Files\src\buisnesLayer\lib_d\;CMake Files\src\buisnesLayer\lib_c\;CMake Files\src\applicationLayer\;CMake Files\src\applicationLayer\lib_a\;CMake Files\src\applicationLayer\lib_b\;CMake Files\app\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\CppKafka\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\app\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="buisnesLayer">
+				<Option output="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/buisnesLayer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 buisnesLayer"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="buisnesLayer/fast">
+				<Option output="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/buisnesLayer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 buisnesLayer/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ICOL.MES.applicationLayer.lib_c">
+				<Option output="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/libICOL.MES.applicationLayer.lib_c.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/src/buisnesLayer"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 ICOL.MES.applicationLayer.lib_c"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ICOL.MES.applicationLayer.lib_c/fast">
+				<Option output="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/libICOL.MES.applicationLayer.lib_c.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/src/buisnesLayer"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 ICOL.MES.applicationLayer.lib_c/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ICOL.MES.applicationLayer.lib_d">
+				<Option output="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/libICOL.MES.applicationLayer.lib_d.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/."/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 ICOL.MES.applicationLayer.lib_d"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ICOL.MES.applicationLayer.lib_d/fast">
+				<Option output="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/libICOL.MES.applicationLayer.lib_d.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/."/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 ICOL.MES.applicationLayer.lib_d/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/src/buisnesLayer/lib_d/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_c/include/lib_c.hpp">
+			<Option target="ICOL.MES.applicationLayer.lib_c"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_c/lib_c.cpp">
+			<Option target="ICOL.MES.applicationLayer.lib_c"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/lib_d.cpp">
+			<Option target="ICOL.MES.applicationLayer.lib_d"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/main.cpp">
+			<Option target="buisnesLayer"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\buisnesLayer\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\buisnesLayer\lib_d\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_d/lib_d.pc.in">
+			<Option virtualFolder="CMake Files\src\buisnesLayer\lib_d\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/buisnesLayer/lib_c/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\buisnesLayer\lib_c\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/applicationLayer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\applicationLayer\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/applicationLayer/lib_a/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\applicationLayer\lib_a\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/src/applicationLayer/lib_b/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\applicationLayer\lib_b\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/app/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\app\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/../../../../usr/local/lib/cmake/CppKafka/CppKafkaConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\CppKafka\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/../../../../usr/local/lib/cmake/CppKafka/CppKafkaConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\CppKafka\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/../../../../usr/local/lib/cmake/CppKafka/CppKafkaTargets-noconfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\CppKafka\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/../../../../usr/local/lib/cmake/CppKafka/CppKafkaTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\CppKafka\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/../../../../usr/local/lib/cmake/CppKafka/FindRdKafka.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\CppKafka\"/>
+		</Unit>
+		<Unit filename="/home/illidansr/CLionProjects/subproject_test/cmake-build-debug/app/rdkafka_version_test.cpp">
+			<Option virtualFolder="CMake Files\cmake-build-debug\app\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

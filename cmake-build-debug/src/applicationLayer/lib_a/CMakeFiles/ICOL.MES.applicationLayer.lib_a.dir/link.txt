@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -fPIC -g  -shared -Wl,-soname,libICOL.MES.applicationLayer.lib_a.so -o libICOL.MES.applicationLayer.lib_a.so CMakeFiles/ICOL.MES.applicationLayer.lib_a.dir/lib_a.cpp.o 
